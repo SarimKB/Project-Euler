@@ -1,5 +1,4 @@
 # Project-Euler
-# Sarim Kamran
 
 ---
 
